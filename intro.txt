@@ -1,0 +1,19 @@
+-Tôi là Lê Vĩnh Phát, hiện đang là sinh viên CNTT trường DNC.
+-Tôi có niềm đam mê với lập trình và công nghệ
+- Tôi thích tìm hiểu các công nghệ lập trình
+-Tôi mong muốn trở thành developer chuyên nghiệp
+-Tôi luôn cố gắng học hỏi và phát triển
+Sở thích:
+-Lập trình và phát triển công nghệ
+-Đọc sách công nghệ
+-CHơi thể thao
+Kỹ năng:
+-Làm việc nhóm
+-Lập trình Python/Javascript
+- Quản lý cơ sở dữ liệu
+Kế hoạch học tập:
+-Tuần 1: Nắm vững Git cơ bản và các lệnh cần thiết
+-Tuần 2: Thực hành branching và merging
+-Tuần 3: Làm việc nhóm với Git trên dự án thực tế
+-Tuần 4: Ôn tập và hoàn thành bài thi cuối kỳ
+-Tuần 5: Áp dụng Git vào dự án cá nhân
