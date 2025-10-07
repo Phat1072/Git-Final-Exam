@@ -1,0 +1,5 @@
+Tính năng mới: Hệ thống quản lý học tập
+Mô tả tính năng:
+- Cho phép sinh viên theo dõi tiến độ học tập
+- Tạo và quản lý kế hoạch học tập cá nhân
+- Nhắc nhở deadline và lịch học
