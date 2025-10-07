@@ -1,19 +1,38 @@
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Tôi là Lê Vĩnh Phát, hiện đang là sinh viên CNTT trường DNC.
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Tôi có niềm đam mê với lập trình và công nghệ
+s~.*~Xin chao, toi la Le Vinh Phat~
 - Tôi thích tìm hiểu các công nghệ lập trình
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Tôi mong muốn trở thành developer chuyên nghiệp
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Tôi luôn cố gắng học hỏi và phát triển
+s~.*~Xin chao, toi la Le Vinh Phat~
 Sở thích:
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Lập trình và phát triển công nghệ
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Đọc sách công nghệ
+s~.*~Xin chao, toi la Le Vinh Phat~
 -CHơi thể thao
+s~.*~Xin chao, toi la Le Vinh Phat~
 Kỹ năng:
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Làm việc nhóm
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Lập trình Python/Javascript
+s~.*~Xin chao, toi la Le Vinh Phat~
 - Quản lý cơ sở dữ liệu
+s~.*~Xin chao, toi la Le Vinh Phat~
 Kế hoạch học tập:
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Tuần 1: Nắm vững Git cơ bản và các lệnh cần thiết
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Tuần 2: Thực hành branching và merging
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Tuần 3: Làm việc nhóm với Git trên dự án thực tế
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Tuần 4: Ôn tập và hoàn thành bài thi cuối kỳ
+s~.*~Xin chao, toi la Le Vinh Phat~
 -Tuần 5: Áp dụng Git vào dự án cá nhân
