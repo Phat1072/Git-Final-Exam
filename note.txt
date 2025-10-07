@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản code hiệu quả
 - Git hỗ trợ làm việc nhóm rất tốt
 - Git cho phép theo dõi lịch sử thay đổi chi tiết
+- Git có hệ thống branch linh hoạt
+-Git dễ dàng khôi phục code khi cần
