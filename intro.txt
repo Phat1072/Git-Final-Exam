@@ -11,3 +11,9 @@ Kỹ năng:
 -Làm việc nhóm
 -Lập trình Python/Javascript
 - Quản lý cơ sở dữ liệu
+Kế hoạch học tập:
+-Tuần 1: Nắm vững Git cơ bản và các lệnh cần thiết
+-Tuần 2: Thực hành branching và merging
+-Tuần 3: Làm việc nhóm với Git trên dự án thực tế
+-Tuần 4: Ôn tập và hoàn thành bài thi cuối kỳ
+-Tuần 5: Áp dụng Git vào dự án cá nhân
